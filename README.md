@@ -15,6 +15,8 @@ Rello is very simple to use and intuitive. You start by clicking the icon which 
 ![alt text](https://github.com/jakebball/Rello/blob/main/Images/Capture3.PNG?raw=true)
 
 This first tab is the settings tab where you configure your API Key, Token and Board Id. To get your API Key and Token visit this link https://trello.com/app-key and follow the directions. After that you need to input your BoardID which is the numbers and letters in the trello link after the /b/. 
-![alt text](https://github.com/jakebball/Rello/blob/main/Images/Capture5.PNG?raw=true)\n
+
+![alt text](https://github.com/jakebball/Rello/blob/main/Images/Capture5.PNG?raw=true)
+
 Once you update the info simply save using the button and you are all set.
 
